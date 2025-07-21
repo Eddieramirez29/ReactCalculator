@@ -5,5 +5,5 @@ Description: This calculator performs operations such as: multiplication, divisi
 
 Technologies: Bootstrap and React.
 
-![Vista previa](./image.png)
+![Vista previa](./Calculator/image.png)
 
